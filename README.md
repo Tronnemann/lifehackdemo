@@ -1,2 +1,2 @@
 # lifehackdemo
-Denne er for å teste hvordan det fungerer
+En side med litt tekst, et bilde og en overskrift for demo
